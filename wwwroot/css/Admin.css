@@ -1,0 +1,25 @@
+﻿.main-bg {
+    background: url('/images/bookstore-bg.jpg') no-repeat;
+}
+
+.bg_White {
+    background: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+}
+
+.bg_White_Border {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    border: 1px solid #ddd;
+}
+
+.bg_White_Border_10_Padding {
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
